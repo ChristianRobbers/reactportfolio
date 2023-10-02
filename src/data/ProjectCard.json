@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "headline": "Dollar Coder",
+        "imgpath": "../img/softwaredollars.png",
+        "githublink": "http",
+        "livelink": "http"
+    },
+
+    {
+        "id": 2,
+        "headline": "Meyer Game",
+        "imgpath": "/img/meyer.png",
+        "githublink": "http",
+        "livelink": "http"
+    },
+
+    {
+        "id": 3,
+        "headline": "Social Media Poster",
+        "imgpath": "../img/socialmediaposter.png",
+        "githublink": "http",
+        "livelink": "http"
+    },
+
+    {
+        "id": 4,
+        "headline": "Pet Shop",
+        "imgpath": "../img/petshop.png",
+        "githublink": "http",
+        "livelink": "http"
+    },
+    {
+        "id": 5,
+        "headline": "Bendix Byg",
+        "imgpath": "../img/bendixbyg.png",
+        "githublink": "http",
+        "livelink": "http"
+    },
+    {
+        "id": 6,
+        "headline": "Movement Through Life",
+        "imgpath": "../img/movement.png",
+        "githublink": "http",
+        "livelink": "https://movementthroughlife.dk/"
+    }
+    
+]

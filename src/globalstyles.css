@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  box-sizing: border-box;
+  background: rgb(36,27,39);
+  background: linear-gradient(126deg, rgba(36,27,39,1) 0%, rgba(37,17,36,1) 27%, rgba(39,15,36,1) 100%);
+  overflow-x: hidden;
+}
+
+.main-layout-container {
+  max-width: 1920px;
+  margin: auto auto;
+}
+
+
